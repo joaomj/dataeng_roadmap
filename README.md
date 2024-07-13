@@ -15,7 +15,9 @@ The intention of this document is to help reduce confusion. In the future, it ca
 # **Courses**
 It is interesting to analyze the structure of the courses to get an idea of the study order for data engineering.
 
-- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html): covers the fundamentals of data engineering. A free 9-week course. In the first 6 weeks, you learn the fundamentals, and in the last 3 weeks, you develop a pipeline from scratch. And there are homework at the end of each week!
+- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html): covers the fundamentals of data engineering. A free 9-week course. In the first 6 weeks, you learn the fundamentals, and in the last 3 weeks, you develop a pipeline from scratch. And there are homework at the end of each week! You can check previous classes [here](https://dezoomcamp.streamlit.app/).
+- [Data Engineer Camp](https://dataengineercamp.com/curriculum/): i found the curriculum very complete and dense, but the price tag is very expensive for non-US residents ($2900). Use the curriculum as a study guide, at least.
+- [The Data Engineering Academy](https://learndataengineering.com/p/academy): from the fundamentals (computer science) to 10 hands-on projects on major cloud platforms, i liked this because its a one stop shop to individuals wanting to learn data engineering (and it gives you a certificate for Linkedin!). Right now it costs $220 for 1 year access or $399 for lifetime access. I plan to take this course.
 - [Bootcamp Engenharia de Dados - Construa um Pipeline - 2024](https://www.udemy.com/course/bootcamp-engenharia-de-dados/?couponCode=ACCAGE0923): a guided practical project. I bought it right now.
 - [Do Zero a Engenheiro de Dados Azure](https://www.udemy.com/course/zeroaengenheirodedados/): It's on my list. I haven't taken it yet, but it's highly rated. Just be aware it focuses on Azure.
 
