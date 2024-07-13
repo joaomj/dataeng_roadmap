@@ -28,6 +28,8 @@ It is interesting to analyze the structure of the courses to get an idea of the 
 - [Fundamentals of Data Engineering](https://www.amazon.com.br/dp/1098108302): its a classic. Everyone must read it before starting the journey.
 - [Version Control with GIT](https://www.amazon.com.br/Version-Control-Git-Collaborative-Development-dp-1492091197/dp/1492091197): If you haven't mastered Git yet, it's time to learn. In data engineering, it's essential.
 
-# **Others**
+# **Misc**
+- [Is getting X certification going to help me get hired](https://dataengineering.wiki/FAQ/Is+getting+X+certification+going+to+help+me+get+hired): short answer: No (in the US, at least). But it do not hurt to have one.
+- [How can I transition into Data Engineering](https://dataengineering.wiki/FAQ/How+can+I+transition+into+Data+Engineering): useful posts from Data Engineering reddit.
 - [Luciano Vasconcelo's Roadmap](https://github.com/lvgalvao/data-engineering-roadmap): he offers a live course called "Jornada de Dados," focused on data engineering. This repository has the course summary, which can help you organize your studies.
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook?tab=readme-ov-file): in the author's own words: *This book is intended to be a starting point for you. It is not a training! I want to help you to identify the topics to look into to become an awesome data engineer in the process. It hinges on my Data Science Platform Blueprint. Check it out below. Once you understand it, you can find in the book tools that fit into each key area of a Data Science platform (Connect, Buffer, Processing Framework, Store, Visualize).  Select a few tools you are interested in, then research and work with them.* To me is the most awesome roadmap right there (even if you dont purchase his paid material).
