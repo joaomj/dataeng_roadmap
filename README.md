@@ -29,6 +29,7 @@ It is interesting to analyze the structure of the courses to get an idea of the 
 - [Version Control with GIT](https://www.amazon.com.br/Version-Control-Git-Collaborative-Development-dp-1492091197/dp/1492091197): If you haven't mastered Git yet, it's time to learn. In data engineering, it's essential.
 
 # **Misc**
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo): a collection of tools, content and other resources for data engineers.
 - [Is getting X certification going to help me get hired](https://dataengineering.wiki/FAQ/Is+getting+X+certification+going+to+help+me+get+hired): short answer: No (in the US, at least). But it do not hurt to have one.
 - [How can I transition into Data Engineering](https://dataengineering.wiki/FAQ/How+can+I+transition+into+Data+Engineering): useful posts from Data Engineering reddit.
 - [Luciano Vasconcelo's Roadmap](https://github.com/lvgalvao/data-engineering-roadmap): he offers a live course called "Jornada de Dados," focused on data engineering. This repository has the course summary, which can help you organize your studies.
