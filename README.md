@@ -6,8 +6,6 @@ The problem for those who want to enter the field of data engineering is definin
 
 The intention of this document is to help reduce confusion. In the future, it can be a map to guide your studies. **But remember**: this is a suggestion based on my personal studies. Do not limit yourself to this list.
 
-# **Websites**
-
 # **Videos**
 - [My Data Engineering Playlist](https://youtube.com/playlist?list=PLJRc2mX8RN4XKLt6jsXHCpqRawixmsPjr&si=YMCL9dfwZB5JU8HI): Videos on data engineering that caught my attention on YouTube. I'll gradually add new things to it.
 - [If i started data engineering in 2024](https://youtu.be/o8KGOVQa_q0?si=sVYmmRMinitl4tOJ): This was the best roadmap video I found. Straightforward, practical, and well-organized.
