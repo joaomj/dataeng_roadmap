@@ -13,6 +13,14 @@ The intention of this document is to help reduce confusion. In the future, it ca
 # **Courses**
 It is interesting to analyze the structure of the courses to get an idea of the study order for data engineering.
 
+- **Data Camp**: the site is a treasure for all thing data. I've started learning data science with them some years ago! For data engineering they have a sequence of career tracks:
+  - [Associate Data Engineer in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql): database design and data warehousing, PostgreSQL, Snowflake (30 hours).
+  - [Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python): Python, Git, Software Engineering, ETL, ELT and Airflow (57 hours).
+  - [Professional Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/professional-data-engineer): advanced data eng skills like NoSQL, PySpark, Docker and Streaming.
+  - What i like most about Datacamp courses is all of them give you a certificate you can show on your Linkedin.
+  - Besides that, in some courser you can win a **certification** after completing a test (like the one within the *Associate Data Engineer in SQL* course here).
+  - And last but not least, Datacamp is an excellent way to step in a new area of knowledge in the data field. Do not expect deep lessons, but they are wide and organized, giving you a way to learn more deeply next in the journey.
+  - And all of this is not very expensive: today (20/07/2024) it costs to me only R$ 34 billed annualy. Real cheap.
 - [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html): covers the fundamentals of data engineering. A free 9-week course. In the first 6 weeks, you learn the fundamentals, and in the last 3 weeks, you develop a pipeline from scratch. And there are homework at the end of each week! You can check previous classes [here](https://dezoomcamp.streamlit.app/) and the detailed course syllabus [here](https://github.com/DataTalksClub/data-engineering-zoomcamp?tab=readme-ov-file).
 - [Data Engineer Camp](https://dataengineercamp.com/curriculum/): i found the curriculum very complete and dense, but the price tag is very expensive for non-US residents ($2900). Use the curriculum as a study guide, at least.
 - [The Data Engineering Academy](https://learndataengineering.com/p/academy): from the fundamentals (computer science) to 10 hands-on projects on major cloud platforms, i liked this because its a one stop shop to individuals wanting to learn data engineering (and it gives you a certificate for Linkedin!). Right now it costs $220 for 1 year access or $399 for lifetime access. I plan to take this course.
