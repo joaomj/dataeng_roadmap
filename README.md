@@ -28,7 +28,7 @@ It is interesting to analyze the structure of the courses to get an idea of the 
 - [Do Zero a Engenheiro de Dados Azure](https://www.udemy.com/course/zeroaengenheirodedados/): It's on my list. I haven't taken it yet, but it's highly rated. Just be aware it focuses on Azure.
 
 # **Newsletters**
-- [Start Data Engineering](https://www.startdataengineering.com/): especially aimed at beginners, it teaches basic concepts and includes small projects, all through email.
+- [Start Data Engineering](https://www.startdataengineering.com/): especially aimed at beginners, it teaches basic concepts and includes small projects, all through email. **But beginners may find it hard to follow.**
 
 # **Books**
 - [Fundamentals of Data Engineering](https://www.amazon.com.br/dp/1098108302): its a classic. Everyone must read it before starting the journey.
